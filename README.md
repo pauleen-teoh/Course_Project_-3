@@ -19,4 +19,4 @@ Steps
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-TidyDataAvgByAct&Sub.txt is tidy data set with the average of each variable for eac activity and each subject as per describe in step 5, after step 1- 4 are performed.
+result_data.txt is tidy data set with the average of each variable for eac activity and each subject as per describe in step 5, after step 1- 4 are performed.
